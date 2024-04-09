@@ -1,6 +1,6 @@
 ## Hi everyone..
 
-I'm a web and android developer based in Tangerang, Indonesia. In my free time, I enjoy playing the guitar, cooking, watching a movie and listening to music.
+I'm a web and android developer based in Tangerang, Indonesia. I like write code and learn something new. In my free time, I enjoy playing the guitar, cooking, watching movie and listening to music.
 
 
 ### 🔌 Let's Connect
