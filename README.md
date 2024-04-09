@@ -1,6 +1,6 @@
 ## Hi everyone..
 
-I'm a web and Android developer based in Tangerang, Indonesia. In my free time, I enjoy playing the guitar, cooking and listening to music.
+I'm a web and android developer based in Tangerang, Indonesia. In my free time, I enjoy playing the guitar, cooking, watching a movie and listening to music.
 
 
 ### 🔌 Let's Connect
@@ -14,6 +14,7 @@ I'm a web and Android developer based in Tangerang, Indonesia. In my free time, 
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=JavaScript&logo=javascript)
 ![Nodejs](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Node.JS&logo=node.js)
 ![PHP](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=PHP&logo=php)
+![Dart](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Dart&logo=dart)
 ![TypeScript](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=TypeScript&logo=typescript)
 
 ### ⚒️ Framework
