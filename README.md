@@ -19,6 +19,7 @@ I'm a web and android developer based in Tangerang, Indonesia. I like write code
 
 ### ⚒️ Framework
 ![Angular](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Angular&logo=angular)
+![VueJs](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Vue.Js&logo=vue)
 ![Flutter](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Flutter&logo=flutter)
 ![Lumen](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Lumen&logo=lumen)
 ![Codeigniter](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Codeigniter&logo=codeigniter)
